@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="diferenca" id="diferenca">
+	<SimpleField name="timestamp" type="string"></SimpleField>
+	<SimpleField name="begin" type="string"></SimpleField>
+	<SimpleField name="end" type="string"></SimpleField>
+	<SimpleField name="altitudeMode" type="string"></SimpleField>
+	<SimpleField name="tessellate" type="int"></SimpleField>
+	<SimpleField name="extrude" type="int"></SimpleField>
+	<SimpleField name="visibility" type="int"></SimpleField>
+	<SimpleField name="drawOrder" type="int"></SimpleField>
+	<SimpleField name="icon" type="string"></SimpleField>
+	<SimpleField name="descriptio" type="string"></SimpleField>
+	<SimpleField name="altitudeMo" type="string"></SimpleField>
+	<SimpleField name="nome" type="string"></SimpleField>
+	<SimpleField name="descri____" type="string"></SimpleField>
+	<SimpleField name="ID" type="string"></SimpleField>
+	<SimpleField name="UBS" type="string"></SimpleField>
+	<SimpleField name="INE" type="string"></SimpleField>
+	<SimpleField name="NOME_EQP" type="string"></SimpleField>
+	<SimpleField name="TIPO" type="string"></SimpleField>
+</Schema>
+<Folder><name>diferenca</name>
+  <Placemark>
+	<name>039</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#diferenca">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="descriptio">nome: &lt;br&gt;descrição: &lt;br&gt;ID: 039&lt;br&gt;UBS: TRES BANDEIRAS&lt;br&gt;INE: 385026&lt;br&gt;NOME_EQP: EQUIPE 2&lt;br&gt;TIPO: EQUIPE DE SAUDE DA FAMILIA (ESF)</SimpleData>
+		<SimpleData name="ID">039</SimpleData>
+		<SimpleData name="UBS">TRES BANDEIRAS</SimpleData>
+		<SimpleData name="INE">385026</SimpleData>
+		<SimpleData name="NOME_EQP">EQUIPE 2</SimpleData>
+		<SimpleData name="TIPO">EQUIPE DE SAUDE DA FAMILIA (ESF)</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>-54.523424,-25.490352,0 -54.523026,-25.491162,0 -54.522777,-25.491057,0 -54.522422,-25.490922,0 -54.521921,-25.490714,0 -54.521686,-25.490606,0 -54.521653,-25.490603,0 -54.521625,-25.490609,0 -54.521597,-25.49063,0 -54.521587,-25.490652,0 -54.52158,-25.490683,0 -54.521533,-25.492655,0 -54.521536,-25.492834,0 -54.521528,-25.494218,0 -54.521519,-25.494767,0 -54.52152,-25.494781,0 -54.521524,-25.494797,0 -54.521537,-25.494816,0 -54.521561,-25.494828,0 -54.523235,-25.495524,0 -54.524707,-25.496122,0 -54.524921,-25.496199,0 -54.5280614180202,-25.490018180227,0 -54.5286192804383,-25.4889644401039,0 -54.5292673024391,-25.4875444266762,0 -54.52925,-25.487188,0 -54.529194,-25.487189,0 -54.526935,-25.487242,0 -54.52686,-25.487253,0 -54.52614,-25.487246,0 -54.52594,-25.48725,0 -54.52558,-25.487214,0 -54.52467,-25.487196,0 -54.524655,-25.48726,0 -54.524653,-25.487292,0 -54.524654,-25.487407,0 -54.524659,-25.487491,0 -54.524655,-25.487545,0 -54.524654,-25.48757,0 -54.524658,-25.487666,0 -54.524659,-25.487722,0 -54.524664,-25.487791,0 -54.524665,-25.487829,0 -54.524667,-25.487885,0 -54.524666,-25.487914,0 -54.524669,-25.487945,0 -54.524676,-25.487971,0 -54.524675,-25.487994,0 -54.524671,-25.488017,0 -54.524659,-25.488034,0 -54.524637,-25.488053,0 -54.523982,-25.489069,0 -54.523424,-25.490352,0</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+</Folder>
+</Document></kml>

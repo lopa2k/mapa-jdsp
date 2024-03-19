@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="122" id="122">
+	<SimpleField name="descriptio" type="string"></SimpleField>
+	<SimpleField name="timestamp" type="string"></SimpleField>
+	<SimpleField name="begin" type="string"></SimpleField>
+	<SimpleField name="end" type="string"></SimpleField>
+	<SimpleField name="altitudeMo" type="string"></SimpleField>
+	<SimpleField name="tessellate" type="float"></SimpleField>
+	<SimpleField name="extrude" type="float"></SimpleField>
+	<SimpleField name="visibility" type="float"></SimpleField>
+	<SimpleField name="drawOrder" type="float"></SimpleField>
+	<SimpleField name="icon" type="string"></SimpleField>
+	<SimpleField name="nome" type="string"></SimpleField>
+	<SimpleField name="descri____" type="string"></SimpleField>
+	<SimpleField name="ID" type="string"></SimpleField>
+	<SimpleField name="UBS" type="string"></SimpleField>
+	<SimpleField name="INE" type="string"></SimpleField>
+	<SimpleField name="NOME_EQP" type="string"></SimpleField>
+	<SimpleField name="TIPO" type="string"></SimpleField>
+</Schema>
+<Folder><name>122</name>
+  <Placemark>
+	<name>122</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#122">
+		<SimpleData name="UBS">PORTAL DA FOZ</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>-54.5034721469395,-25.5067293130585,0 -54.5048366643661,-25.5071014541748,0 -54.5087586182422,-25.5071076565268,0 -54.5150808823187,-25.50772582427,0 -54.516949857703,-25.5074446509821,0 -54.5178347265796,-25.5073040643382,0 -54.5191256848632,-25.5067614013262,0 -54.5216572863085,-25.5055257212244,0 -54.5218923740805,-25.5074534409552,0 -54.523520356902,-25.5082439235888,0 -54.5234674621533,-25.5080235288025,0 -54.5234792165419,-25.5078736603478,0 -54.5235144797077,-25.5077370155803,0 -54.5237480981812,-25.507322673382,0 -54.5241653789766,-25.5065689232129,0 -54.5249037015107,-25.5051870479028,0 -54.5252769033489,-25.5044729687952,0 -54.525435587595,-25.5041027055542,0 -54.525665532822,-25.5038154576827,0 -54.5260005328971,-25.5031807206982,0 -54.5284865860866,-25.4984495792856,0 -54.5241492166922,-25.4966394034408,0 -54.5136357343169,-25.4918519382074,0 -54.5118081079456,-25.4911324653824,0 -54.5054982485729,-25.4886101755939,0 -54.503621003386,-25.4878162745457,0 -54.5029759587844,-25.4875929898759,0 -54.5028932607585,-25.4876839577043,0 -54.5034721469395,-25.5067293130585,0</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+</Folder>
+</Document></kml>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="007" id="007">
+	<SimpleField name="descriptio" type="string"></SimpleField>
+	<SimpleField name="timestamp" type="string"></SimpleField>
+	<SimpleField name="begin" type="string"></SimpleField>
+	<SimpleField name="end" type="string"></SimpleField>
+	<SimpleField name="altitudeMo" type="string"></SimpleField>
+	<SimpleField name="tessellate" type="float"></SimpleField>
+	<SimpleField name="extrude" type="float"></SimpleField>
+	<SimpleField name="visibility" type="float"></SimpleField>
+	<SimpleField name="drawOrder" type="float"></SimpleField>
+	<SimpleField name="icon" type="string"></SimpleField>
+	<SimpleField name="nome" type="string"></SimpleField>
+	<SimpleField name="descri____" type="string"></SimpleField>
+	<SimpleField name="ID" type="string"></SimpleField>
+	<SimpleField name="UBS" type="string"></SimpleField>
+	<SimpleField name="INE" type="string"></SimpleField>
+	<SimpleField name="NOME_EQP" type="string"></SimpleField>
+	<SimpleField name="TIPO" type="string"></SimpleField>
+</Schema>
+<Folder><name>007</name>
+  <Placemark>
+	<name>007</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#007">
+		<SimpleData name="descriptio">nome: &lt;br&gt;descrição: &lt;br&gt;ID: 007&lt;br&gt;UBS: SAO JOAO&lt;br&gt;INE: 385069&lt;br&gt;NOME_EQP: EQUIPE 1&lt;br&gt;TIPO: EQUIPE DE SAUDE DA FAMILIA (ESF)</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="ID">007</SimpleData>
+		<SimpleData name="UBS">SAO JOAO</SimpleData>
+		<SimpleData name="INE">385069</SimpleData>
+		<SimpleData name="NOME_EQP">EQUIPE 1</SimpleData>
+		<SimpleData name="TIPO">EQUIPE DE SAUDE DA FAMILIA (ESF)</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>-54.515735,-25.48634,0 -54.515319,-25.486282,0 -54.514917,-25.486234,0 -54.514446,-25.486175,0 -54.513506,-25.486083,0 -54.513026,-25.48604,0 -54.512971,-25.486036,0 -54.512933,-25.486046,0 -54.512909,-25.486061,0 -54.512899,-25.486101,0 -54.512895,-25.486358,0 -54.512877,-25.486563,0 -54.512816,-25.486739,0 -54.512707,-25.486894,0 -54.512467,-25.487314,0 -54.512174,-25.48785,0 -54.511915,-25.488387,0 -54.511632,-25.48894,0 -54.511407,-25.489393,0 -54.510976,-25.490251,0 -54.510922,-25.490372,0 -54.510939,-25.490471,0 -54.511012,-25.49053,0 -54.511117,-25.490586,0 -54.513337,-25.491599,0 -54.513689,-25.491738,0 -54.5245184762266,-25.4963870580636,0 -54.5292108177238,-25.4875710036446,0 -54.5292154407203,-25.4849959945669,0 -54.5250871048021,-25.4856663290665,0 -54.5244029013128,-25.4881442552167,0 -54.5237186978236,-25.4875155276861,0 -54.52004,-25.486956,0 -54.518559,-25.486724,0 -54.517938,-25.486628,0 -54.517593,-25.486579,0 -54.517432,-25.486559,0 -54.515921,-25.486366,0 -54.515735,-25.48634,0</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+</Folder>
+</Document></kml>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="116_projeto" id="116_projeto">
+	<SimpleField name="descriptio" type="string"></SimpleField>
+	<SimpleField name="timestamp" type="string"></SimpleField>
+	<SimpleField name="begin" type="string"></SimpleField>
+	<SimpleField name="end" type="string"></SimpleField>
+	<SimpleField name="altitudeMo" type="string"></SimpleField>
+	<SimpleField name="tessellate" type="float"></SimpleField>
+	<SimpleField name="extrude" type="float"></SimpleField>
+	<SimpleField name="visibility" type="float"></SimpleField>
+	<SimpleField name="drawOrder" type="float"></SimpleField>
+	<SimpleField name="icon" type="string"></SimpleField>
+	<SimpleField name="nome" type="string"></SimpleField>
+	<SimpleField name="descri____" type="string"></SimpleField>
+	<SimpleField name="ID" type="string"></SimpleField>
+	<SimpleField name="UBS" type="string"></SimpleField>
+	<SimpleField name="INE" type="string"></SimpleField>
+	<SimpleField name="NOME_EQP" type="string"></SimpleField>
+	<SimpleField name="TIPO" type="string"></SimpleField>
+</Schema>
+<Folder><name>116_projeto</name>
+  <Placemark>
+	<name>116</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#116_projeto">
+		<SimpleData name="descriptio">nome: &lt;br&gt;descrição: &lt;br&gt;ID: 014&lt;br&gt;UBS: SOL DE MAIO&lt;br&gt;INE: 384968&lt;br&gt;NOME_EQP: EQUIPE 1&lt;br&gt;TIPO: EQUIPE DE ATENCAO PRIMARIA (EAP)</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="UBS">SOL DE MAIO</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>-54.4946893015136,-25.4740166902004,0 -54.494348945997,-25.4738920250984,0 -54.4946418043388,-25.4720683841475,0 -54.4944266600025,-25.4711686896501,0 -54.493171509645,-25.4707298972487,0 -54.490212212054,-25.4688522739495,0 -54.4864773744046,-25.4677093728109,0 -54.4861712401711,-25.48038333008,0 -54.4924546453147,-25.4829395509301,0 -54.4980364573481,-25.4849968901856,0 -54.4983520158876,-25.4841253475527,0 -54.4985323350531,-25.4824874484666,0 -54.4989230265782,-25.4794220226541,0 -54.4993287447004,-25.4794671024455,0 -54.4992986915062,-25.4790764109204,0 -54.4992536117148,-25.4783626475572,0 -54.4990883191465,-25.4782048682874,0 -54.4989962812392,-25.4780884121597,0 -54.4989549580971,-25.4773089074342,0 -54.4984891335864,-25.4767472883668,0 -54.4977039938868,-25.4758231526439,0 -54.49682681628,-25.4758024910729,0 -54.496330938575,-25.4805170859193,0 -54.4938087305549,-25.4805190636172,0 -54.4940818064926,-25.4774598215897,0 -54.4942796876069,-25.4757936626071,0 -54.4944201831981,-25.4757778321179,0 -54.4946893015136,-25.4740166902004,0</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+</Folder>
+</Document></kml>

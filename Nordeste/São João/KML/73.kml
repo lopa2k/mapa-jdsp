@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="073" id="073">
+	<SimpleField name="descriptio" type="string"></SimpleField>
+	<SimpleField name="timestamp" type="string"></SimpleField>
+	<SimpleField name="begin" type="string"></SimpleField>
+	<SimpleField name="end" type="string"></SimpleField>
+	<SimpleField name="altitudeMo" type="string"></SimpleField>
+	<SimpleField name="tessellate" type="float"></SimpleField>
+	<SimpleField name="extrude" type="float"></SimpleField>
+	<SimpleField name="visibility" type="float"></SimpleField>
+	<SimpleField name="drawOrder" type="float"></SimpleField>
+	<SimpleField name="icon" type="string"></SimpleField>
+	<SimpleField name="nome" type="string"></SimpleField>
+	<SimpleField name="descri____" type="string"></SimpleField>
+	<SimpleField name="ID" type="string"></SimpleField>
+	<SimpleField name="UBS" type="string"></SimpleField>
+	<SimpleField name="INE" type="string"></SimpleField>
+	<SimpleField name="NOME_EQP" type="string"></SimpleField>
+	<SimpleField name="TIPO" type="string"></SimpleField>
+</Schema>
+<Folder><name>073</name>
+  <Placemark>
+	<name>073</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#073">
+		<SimpleData name="descriptio">nome: &lt;br&gt;descrição: &lt;br&gt;ID: 073&lt;br&gt;UBS: SAO JOAO&lt;br&gt;INE: 385050&lt;br&gt;NOME_EQP: EQUIPE 2&lt;br&gt;TIPO: EQUIPE DE SAUDE DA FAMILIA (ESF)</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="ID">073</SimpleData>
+		<SimpleData name="UBS">SAO JOAO</SimpleData>
+		<SimpleData name="INE">385050</SimpleData>
+		<SimpleData name="NOME_EQP">EQUIPE 2</SimpleData>
+		<SimpleData name="TIPO">EQUIPE DE SAUDE DA FAMILIA (ESF)</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>-54.5155149724951,-25.4840704065569,0 -54.5140217044063,-25.4841718360875,0 -54.5135173742405,-25.4841887410092,0 -54.5129454243876,-25.4842310033136,0 -54.5129341544398,-25.4842197333658,0 -54.5129,-25.48489,0 -54.512884,-25.485552,0 -54.512886,-25.485901,0 -54.512908,-25.485956,0 -54.512944,-25.48599,0 -54.513053,-25.48602,0 -54.513582,-25.486074,0 -54.514316,-25.486141,0 -54.515593,-25.486296,0 -54.516292,-25.486398,0 -54.516878,-25.486461,0 -54.517014,-25.486461,0 -54.517479,-25.486507,0 -54.517883,-25.486567,0 -54.518638,-25.486681,0 -54.518912,-25.486732,0 -54.519491,-25.48682,0 -54.51988565581,-25.4869018248942,0 -54.5199388202703,-25.4869110708873,0 -54.5199781157409,-25.4869185832567,0 -54.5200869907613,-25.4869414844667,0 -54.5217024934537,-25.4872011639207,0 -54.5220781119233,-25.4872554841302,0 -54.5225323213342,-25.4873300299495,0 -54.5237572371077,-25.4875162518066,0 -54.5242029567121,-25.4879304416263,0 -54.5243936553198,-25.4881003367495,0 -54.5244491312783,-25.4878888346574,0 -54.525002629394,-25.4856347219695,0 -54.5249894180715,-25.4856379271666,0 -54.522915747669,-25.4854801478969,0 -54.5229871240054,-25.4837558458774,0 -54.519775,-25.483726,0 -54.519764,-25.483722,0 -54.51975,-25.48372,0 -54.519621,-25.48372,0 -54.5187961901565,-25.4837427224087,0 -54.5169659782795,-25.4837717529392,0 -54.5155149724951,-25.4840704065569,0</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+</Folder>
+</Document></kml>
