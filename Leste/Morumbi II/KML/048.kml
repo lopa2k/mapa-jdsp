@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="048" id="048">
+	<SimpleField name="descriptio" type="string"></SimpleField>
+	<SimpleField name="timestamp" type="string"></SimpleField>
+	<SimpleField name="begin" type="string"></SimpleField>
+	<SimpleField name="end" type="string"></SimpleField>
+	<SimpleField name="altitudeMo" type="string"></SimpleField>
+	<SimpleField name="tessellate" type="float"></SimpleField>
+	<SimpleField name="extrude" type="float"></SimpleField>
+	<SimpleField name="visibility" type="float"></SimpleField>
+	<SimpleField name="drawOrder" type="float"></SimpleField>
+	<SimpleField name="icon" type="string"></SimpleField>
+	<SimpleField name="nome" type="string"></SimpleField>
+	<SimpleField name="descri____" type="string"></SimpleField>
+	<SimpleField name="ID" type="string"></SimpleField>
+	<SimpleField name="UBS" type="string"></SimpleField>
+	<SimpleField name="INE" type="string"></SimpleField>
+	<SimpleField name="NOME_EQP" type="string"></SimpleField>
+	<SimpleField name="TIPO" type="string"></SimpleField>
+</Schema>
+<Folder><name>048</name>
+  <Placemark>
+	<name>048</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#048">
+		<SimpleData name="descriptio">nome: &lt;br&gt;descrição: &lt;br&gt;ID: 048&lt;br&gt;UBS: MORUMBI II&lt;br&gt;INE: 2029081&lt;br&gt;NOME_EQP: EQUIPE 2&lt;br&gt;TIPO: EQUIPE DE SAUDE DA FAMILIA (ESF)</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="ID">048</SimpleData>
+		<SimpleData name="UBS">MORUMBI II</SimpleData>
+		<SimpleData name="INE">2029081</SimpleData>
+		<SimpleData name="NOME_EQP">EQUIPE 2</SimpleData>
+		<SimpleData name="TIPO">EQUIPE DE SAUDE DA FAMILIA (ESF)</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>-54.54421,-25.534291,0 -54.544172,-25.534285,0 -54.543637,-25.534288,0 -54.543504,-25.534288,0 -54.542999,-25.534292,0 -54.542877,-25.534293,0 -54.54286,-25.534292,0 -54.542839,-25.534292,0 -54.541679,-25.534285,0 -54.541654,-25.534291,0 -54.541626,-25.534312,0 -54.541605,-25.534335,0 -54.541585,-25.534362,0 -54.54156,-25.534996,0 -54.54157,-25.53562,0 -54.541533,-25.535635,0 -54.541494,-25.535648,0 -54.54139,-25.535642,0 -54.540734,-25.535639,0 -54.539186,-25.535639,0 -54.538364,-25.535641,0 -54.538362,-25.53556,0 -54.538358,-25.534222,0 -54.538353,-25.532989,0 -54.53828,-25.532964,0 -54.53599,-25.532964,0 -54.535902,-25.532979,0 -54.535905,-25.531709,0 -54.5359,-25.531656,0 -54.53585,-25.531621,0 -54.534763,-25.53163,0 -54.534617,-25.531595,0 -54.534109,-25.531604,0 -54.5340859655896,-25.5316346137287,0 -54.5339141309662,-25.5369522920051,0 -54.5339247133842,-25.538004486704,0 -54.5339311785847,-25.5498760277397,0 -54.538645,-25.549688,0 -54.538861,-25.536496,0 -54.538883,-25.536366,0 -54.538958,-25.536313,0 -54.541353,-25.536189,0 -54.541657,-25.536184,0 -54.542244,-25.536157,0 -54.542369,-25.536152,0 -54.542624,-25.536142,0 -54.543058,-25.536122,0 -54.544112,-25.536069,0 -54.544151,-25.536052,0 -54.544181,-25.536004,0 -54.544181,-25.535959,0 -54.544184,-25.535669,0 -54.544185,-25.535631,0 -54.544196,-25.53559,0 -54.544219,-25.535494,0 -54.54423,-25.53545,0 -54.544231,-25.535427,0 -54.544227,-25.534323,0 -54.54421,-25.534291,0</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+</Folder>
+</Document></kml>

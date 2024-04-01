@@ -1,0 +1,462 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="micro" id="micro">
+	<SimpleField name="descriptio" type="string"></SimpleField>
+	<SimpleField name="timestamp" type="string"></SimpleField>
+	<SimpleField name="begin" type="string"></SimpleField>
+	<SimpleField name="end" type="string"></SimpleField>
+	<SimpleField name="altitudeMo" type="string"></SimpleField>
+	<SimpleField name="tessellate" type="float"></SimpleField>
+	<SimpleField name="extrude" type="float"></SimpleField>
+	<SimpleField name="visibility" type="float"></SimpleField>
+	<SimpleField name="drawOrder" type="float"></SimpleField>
+	<SimpleField name="icon" type="string"></SimpleField>
+	<SimpleField name="nome" type="string"></SimpleField>
+	<SimpleField name="descri____" type="string"></SimpleField>
+	<SimpleField name="ID" type="string"></SimpleField>
+	<SimpleField name="NOME_ACS" type="string"></SimpleField>
+	<SimpleField name="AREA_ID" type="string"></SimpleField>
+</Schema>
+<Folder><name>micro</name>
+  <Placemark>
+	<name>06</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#micro">
+		<SimpleData name="NOME_ACS">descoberta</SimpleData>
+		<SimpleData name="AREA_ID">88</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>-54.5425696444099,-25.5247198907995,0 -54.5416939346997,-25.5255316217182,0 -54.5406262886146,-25.5249718072915,0 -54.5399425152792,-25.5245919332163,0 -54.5389998277715,-25.5240801028834,0 -54.5404283542281,-25.5227545422946,0 -54.5425696444099,-25.5247198907995,0</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>3</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#micro">
+		<SimpleData name="descriptio">nome: &lt;br&gt;descrição: &lt;br&gt;ID: 196&lt;br&gt;NOME_ACS: Neumar Ribeiro&lt;br&gt;AREA_ID: 047</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="nome">3</SimpleData>
+		<SimpleData name="ID">196</SimpleData>
+		<SimpleData name="NOME_ACS">Neumar Ribeiro</SimpleData>
+		<SimpleData name="AREA_ID">047</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>-54.544209,-25.531633,0 -54.544192,-25.531617,0 -54.544169,-25.531613,0 -54.543666,-25.531614,0 -54.543495,-25.53161,0 -54.543026,-25.53161,0 -54.542866,-25.531607,0 -54.542359,-25.531612,0 -54.542195,-25.531609,0 -54.541661,-25.531611,0 -54.541652,-25.531612,0 -54.541642,-25.531617,0 -54.541634,-25.53164,0 -54.541622,-25.53215,0 -54.541624,-25.532563,0 -54.541637,-25.532789,0 -54.541638,-25.532828,0 -54.541653,-25.532878,0 -54.541659,-25.532984,0 -54.541647,-25.534178,0 -54.541653,-25.534196,0 -54.541659,-25.53422,0 -54.541683,-25.534237,0 -54.542878,-25.534233,0 -54.543016,-25.534237,0 -54.543521,-25.534233,0 -54.543663,-25.534234,0 -54.544191,-25.534233,0 -54.544208,-25.534227,0 -54.544225,-25.534209,0 -54.544206,-25.532986,0 -54.544209,-25.532855,0 -54.544222,-25.532378,0 -54.544226,-25.53228,0 -54.544212,-25.531652,0 -54.544209,-25.531633,0</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>4</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#micro">
+		<SimpleData name="descriptio">nome: &lt;br&gt;descrição: &lt;br&gt;ID: 199&lt;br&gt;NOME_ACS: Neli Lima da Silva Dornelles&lt;br&gt;AREA_ID: 047</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="nome">4</SimpleData>
+		<SimpleData name="ID">199</SimpleData>
+		<SimpleData name="NOME_ACS">Neli Lima da Silva Dornelles</SimpleData>
+		<SimpleData name="AREA_ID">047</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>-54.538415,-25.530207,0 -54.538405,-25.530221,0 -54.538409,-25.531498,0 -54.538409,-25.531672,0 -54.538415,-25.532868,0 -54.538429,-25.532897,0 -54.538462,-25.532905,0 -54.538908,-25.532902,0 -54.539064,-25.532903,0 -54.539502,-25.532902,0 -54.539695,-25.532902,0 -54.540128,-25.532902,0 -54.540154,-25.532896,0 -54.54017,-25.532887,0 -54.540178,-25.532863,0 -54.54018,-25.532576,0 -54.540202,-25.532549,0 -54.540242,-25.53252,0 -54.54028,-25.532497,0 -54.540746,-25.532498,0 -54.540908,-25.532499,0 -54.541389,-25.532499,0 -54.541413,-25.532488,0 -54.541426,-25.532465,0 -54.541427,-25.531647,0 -54.541415,-25.531627,0 -54.541388,-25.531617,0 -54.540939,-25.531618,0 -54.540798,-25.531619,0 -54.540301,-25.531621,0 -54.540224,-25.531611,0 -54.540186,-25.531592,0 -54.540169,-25.531526,0 -54.540183,-25.530235,0 -54.540169,-25.530219,0 -54.54015,-25.530206,0 -54.540126,-25.530203,0 -54.539645,-25.530204,0 -54.539507,-25.530211,0 -54.539051,-25.530208,0 -54.538894,-25.530204,0 -54.538453,-25.530196,0 -54.538429,-25.530199,0 -54.538415,-25.530207,0</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>66</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#micro">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="nome">66</SimpleData>
+		<SimpleData name="AREA_ID">123</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>-54.533999252124,-25.5323743104372,0 -54.533638,-25.53238,0 -54.532826,-25.532382,0 -54.530972,-25.532385,0 -54.5308357927096,-25.5323984959068,0 -54.5308722907816,-25.5341759080494,0 -54.5308705318384,-25.5342585783816,0 -54.5315925780378,-25.5342682525694,0 -54.5323770667223,-25.5342770472856,0 -54.5330155631179,-25.5342752883424,0 -54.5339500017134,-25.5342845227943,0 -54.533999252124,-25.5323743104372,0</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>8</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#micro">
+		<SimpleData name="descriptio">nome: &lt;br&gt;descrição: &lt;br&gt;ID: 212&lt;br&gt;NOME_ACS: Nilda Alves de Oliveira Mendes&lt;br&gt;AREA_ID: 048</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="nome">8</SimpleData>
+		<SimpleData name="ID">212</SimpleData>
+		<SimpleData name="NOME_ACS">Nilda Alves de Oliveira Mendes</SimpleData>
+		<SimpleData name="AREA_ID">048</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>-54.535885,-25.535585,0 -54.535902,-25.535561,0 -54.535906,-25.535548,0 -54.535903,-25.534369,0 -54.535909,-25.534219,0 -54.535899,-25.533019,0 -54.5359,-25.532869,0 -54.535895,-25.531696,0 -54.535891,-25.531653,0 -54.535885,-25.531642,0 -54.535872,-25.531632,0 -54.535856,-25.531629,0 -54.535418,-25.531629,0 -54.535396,-25.531629,0 -54.535256,-25.531634,0 -54.535236,-25.53163,0 -54.534804,-25.531632,0 -54.534667,-25.53162,0 -54.534652,-25.531608,0 -54.534629,-25.531603,0 -54.534153,-25.531604,0 -54.534131,-25.531606,0 -54.53412,-25.531612,0 -54.534113,-25.531622,0 -54.534114,-25.532854,0 -54.534114,-25.533015,0 -54.534113,-25.534192,0 -54.534114,-25.534356,0 -54.534113,-25.535571,0 -54.534119,-25.535586,0 -54.534136,-25.535599,0 -54.534154,-25.53561,0 -54.534633,-25.535612,0 -54.534806,-25.535593,0 -54.535225,-25.535592,0 -54.535398,-25.535588,0 -54.535877,-25.535589,0 -54.535885,-25.535585,0</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>63</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#micro">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="nome">63</SimpleData>
+		<SimpleData name="ID">227</SimpleData>
+		<SimpleData name="NOME_ACS">descoberta</SimpleData>
+		<SimpleData name="AREA_ID">123</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>-54.5288143271924,-25.5367949745317,0 -54.5301546419402,-25.5367492420075,0 -54.5308335940304,-25.5367316525751,0 -54.530825,-25.535288,0 -54.530823,-25.534309,0 -54.530823,-25.534146,0 -54.530821,-25.532981,0 -54.53082,-25.532818,0 -54.530819,-25.53229,0 -54.530822,-25.531854,0 -54.530821,-25.531692,0 -54.530818,-25.530303,0 -54.53082,-25.530211,0 -54.5308217211635,-25.5300955994716,0 -54.5308173238054,-25.5295151482028,0 -54.529498,-25.529581,0 -54.528676,-25.529579,0 -54.5288143271924,-25.5367949745317,0</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>64</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#micro">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="nome">64</SimpleData>
+		<SimpleData name="ID">228</SimpleData>
+		<SimpleData name="NOME_ACS">descoberta</SimpleData>
+		<SimpleData name="AREA_ID">123</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>-54.533675,-25.534312,0 -54.533191,-25.53431,0 -54.533015,-25.534315,0 -54.53298,-25.534313,0 -54.531424,-25.534311,0 -54.530882844441,-25.5343078287923,0 -54.5309039517599,-25.5348988337205,0 -54.530896915987,-25.5352154435034,0 -54.5308933981005,-25.5354511418974,0 -54.5309004338734,-25.5358029305451,0 -54.5308933981005,-25.5361687907387,0 -54.5308969159869,-25.5367210989157,0 -54.5328317535494,-25.5366190802078,0 -54.5330916374129,-25.5366415067341,0 -54.5338972334162,-25.5366203994152,0 -54.5339500017134,-25.5343161837726,0 -54.533675,-25.534312,0</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>40</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#micro">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="nome">40</SimpleData>
+		<SimpleData name="ID">232</SimpleData>
+		<SimpleData name="NOME_ACS">descoberta</SimpleData>
+		<SimpleData name="AREA_ID">122</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>-54.534136,-25.527061,0 -54.53415,-25.527062,0 -54.534604,-25.527064,0 -54.534781,-25.527063,0 -54.534819,-25.527064,0 -54.535232,-25.527064,0 -54.5358839598038,-25.5270900052123,0 -54.5358698882579,-25.5249018798235,0 -54.535868,-25.524832,0 -54.535881,-25.524829,0 -54.535893,-25.524825,0 -54.535901,-25.524817,0 -54.535959,-25.524693,0 -54.536416,-25.523674,0 -54.536749,-25.522946,0 -54.536756,-25.522935,0 -54.536755,-25.522926,0 -54.536748,-25.522912,0 -54.536736,-25.522902,0 -54.536648,-25.52285,0 -54.536361,-25.522688,0 -54.536339,-25.522678,0 -54.536202,-25.522603,0 -54.536179,-25.52259,0 -54.535823,-25.522398,0 -54.535683,-25.522327,0 -54.535654,-25.522305,0 -54.535242,-25.52208,0 -54.535227,-25.522073,0 -54.535215,-25.52207,0 -54.535206,-25.522071,0 -54.535193,-25.522077,0 -54.535181,-25.522085,0 -54.535139,-25.52213,0 -54.535081,-25.522191,0 -54.534976,-25.522305,0 -54.534882,-25.522415,0 -54.534812,-25.522506,0 -54.534739,-25.522601,0 -54.534675,-25.52269,0 -54.534611,-25.522786,0 -54.534552,-25.522894,0 -54.534454,-25.523064,0 -54.534423,-25.523121,0 -54.534397,-25.523176,0 -54.534354,-25.523277,0 -54.534333,-25.523331,0 -54.534298,-25.523431,0 -54.534278,-25.523498,0 -54.534229,-25.523667,0 -54.534198,-25.523788,0 -54.534171,-25.523916,0 -54.53414,-25.524055,0 -54.534125,-25.524141,0 -54.534118,-25.524207,0 -54.534112,-25.524271,0 -54.53411,-25.524327,0 -54.534115,-25.524576,0 -54.534108,-25.524606,0 -54.53411,-25.527004,0 -54.53411,-25.527029,0 -54.534113,-25.527044,0 -54.534123,-25.527054,0 -54.534136,-25.527061,0</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>43</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#micro">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="nome">43</SimpleData>
+		<SimpleData name="ID">233</SimpleData>
+		<SimpleData name="NOME_ACS">descoberta</SimpleData>
+		<SimpleData name="AREA_ID">122</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>-54.5284647880273,-25.5253657854902,0 -54.5286360549851,-25.5294834804317,0 -54.5339161788526,-25.5292648417622,0 -54.5338858002854,-25.5243913465488,0 -54.533906,-25.52415,0 -54.533918,-25.524055,0 -54.533942,-25.523922,0 -54.533993,-25.523707,0 -54.534062,-25.523452,0 -54.534089,-25.523366,0 -54.534117,-25.523283,0 -54.534169,-25.523154,0 -54.53422,-25.523033,0 -54.534257,-25.522966,0 -54.534338,-25.522795,0 -54.53441,-25.522643,0 -54.534578,-25.522448,0 -54.534613,-25.522409,0 -54.534735,-25.52226,0 -54.534903,-25.522065,0 -54.534988,-25.521976,0 -54.534993,-25.521968,0 -54.534993,-25.52196,0 -54.53499,-25.52195,0 -54.534982,-25.52194,0 -54.534964,-25.521928,0 -54.53486,-25.521871,0 -54.534744,-25.521809,0 -54.534569,-25.521715,0 -54.534412,-25.521623,0 -54.534043,-25.521425,0 -54.533902,-25.521348,0 -54.533498,-25.521133,0 -54.533378,-25.521061,0 -54.533191,-25.520961,0 -54.532974,-25.520842,0 -54.532837,-25.520769,0 -54.532439,-25.52055,0 -54.532311,-25.520477,0 -54.531987,-25.520299,0 -54.531933,-25.520266,0 -54.531907,-25.520251,0 -54.531893,-25.52024,0 -54.531878,-25.520236,0 -54.5316844828223,-25.5201373423261,0 -54.5315727899266,-25.5198752597836,0 -54.5308643755372,-25.5200260891663,0 -54.5300741702873,-25.5201901106233,0 -54.527720704234,-25.5206843736734,0 -54.5277963387933,-25.5208708216566,0 -54.528129658537,-25.5218232894204,0 -54.528383825835,-25.5227317836031,0 -54.528202421624,-25.5230336396826,0 -54.5283773325596,-25.5237770111587,0 -54.5284647880273,-25.5253657854902,0</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>41</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#micro">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="nome">41</SimpleData>
+		<SimpleData name="ID">234</SimpleData>
+		<SimpleData name="NOME_ACS">DESCOBERTA</SimpleData>
+		<SimpleData name="AREA_ID">122</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>-54.53585,-25.527128,0 -54.535835,-25.527126,0 -54.535407,-25.527126,0 -54.535214,-25.527126,0 -54.53478,-25.527127,0 -54.534763,-25.527128,0 -54.534633,-25.52715,0 -54.534612,-25.527149,0 -54.53417,-25.527148,0 -54.534138,-25.527149,0 -54.534126,-25.527157,0 -54.534115,-25.527167,0 -54.534111,-25.52718,0 -54.534112,-25.527203,0 -54.534115,-25.528621,0 -54.534115,-25.528774,0 -54.534114,-25.530074,0 -54.534115,-25.530251,0 -54.534114,-25.531518,0 -54.534123,-25.531536,0 -54.534132,-25.53154,0 -54.534151,-25.531545,0 -54.534709,-25.531542,0 -54.534756,-25.531549,0 -54.534774,-25.531557,0 -54.534799,-25.531564,0 -54.535225,-25.531567,0 -54.535434,-25.531566,0 -54.535852,-25.531564,0 -54.535874,-25.531557,0 -54.535884,-25.531546,0 -54.535889,-25.531532,0 -54.535892,-25.531508,0 -54.535898,-25.530257,0 -54.535895,-25.530074,0 -54.535886,-25.528789,0 -54.535887,-25.528598,0 -54.535884,-25.527171,0 -54.535882,-25.527156,0 -54.535875,-25.527143,0 -54.535864,-25.527134,0 -54.53585,-25.527128,0</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>52</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#micro">
+		<SimpleData name="descriptio">nome: &lt;br&gt;descrição: &lt;br&gt;ID: 235&lt;br&gt;NOME_ACS: ANGELICA BARCELLOS PEFFE&lt;br&gt;AREA_ID: 060</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="nome">52</SimpleData>
+		<SimpleData name="ID">235</SimpleData>
+		<SimpleData name="NOME_ACS">ANGELICA BARCELLOS PEFFE</SimpleData>
+		<SimpleData name="AREA_ID">060</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>-54.537667,-25.527123,0 -54.537269,-25.527122,0 -54.537053,-25.527124,0 -54.536607,-25.527124,0 -54.536429,-25.527124,0 -54.535997,-25.527125,0 -54.535981,-25.527128,0 -54.535969,-25.527137,0 -54.535958,-25.527153,0 -54.535954,-25.527169,0 -54.535953,-25.527223,0 -54.535956,-25.528602,0 -54.535956,-25.528769,0 -54.535962,-25.52991,0 -54.535965,-25.530068,0 -54.535968,-25.530089,0 -54.53598,-25.530103,0 -54.53599,-25.530109,0 -54.536437,-25.530115,0 -54.536606,-25.530114,0 -54.537039,-25.530117,0 -54.537254,-25.530122,0 -54.537733,-25.530134,0 -54.537794,-25.530135,0 -54.538337,-25.530148,0 -54.53833,-25.529494,0 -54.538327,-25.528756,0 -54.538322,-25.528742,0 -54.538336,-25.528636,0 -54.538337,-25.528624,0 -54.538337,-25.528214,0 -54.538333,-25.527352,0 -54.538325,-25.527147,0 -54.538321,-25.527139,0 -54.53831,-25.527129,0 -54.538298,-25.527123,0 -54.537836,-25.527121,0 -54.537667,-25.527123,0</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>6</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#micro">
+		<SimpleData name="descriptio">nome: &lt;br&gt;descrição: &lt;br&gt;ID: 236&lt;br&gt;NOME_ACS: DESCOBERTA&lt;br&gt;AREA_ID: 047</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="nome">6</SimpleData>
+		<SimpleData name="ID">236</SimpleData>
+		<SimpleData name="NOME_ACS">DESCOBERTA</SimpleData>
+		<SimpleData name="AREA_ID">047</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>-54.538256,-25.530195,0 -54.538081,-25.530191,0 -54.537842,-25.530191,0 -54.537657,-25.530195,0 -54.537252,-25.530197,0 -54.537225,-25.530196,0 -54.537108,-25.530195,0 -54.537097,-25.530184,0 -54.537079,-25.530176,0 -54.536617,-25.530175,0 -54.536433,-25.530176,0 -54.536018,-25.530177,0 -54.536005,-25.530178,0 -54.535991,-25.530185,0 -54.535976,-25.530195,0 -54.535965,-25.530208,0 -54.53596,-25.530224,0 -54.535963,-25.531524,0 -54.535969,-25.531654,0 -54.535965,-25.531674,0 -54.535971,-25.532876,0 -54.535976,-25.532892,0 -54.535985,-25.532901,0 -54.536001,-25.532905,0 -54.536451,-25.532906,0 -54.536638,-25.532908,0 -54.537052,-25.532905,0 -54.537257,-25.532908,0 -54.537325,-25.53291,0 -54.537667,-25.532909,0 -54.537842,-25.532907,0 -54.538293,-25.532908,0 -54.538322,-25.532903,0 -54.538339,-25.532887,0 -54.538346,-25.532863,0 -54.538354,-25.53169,0 -54.538343,-25.531526,0 -54.538345,-25.530595,0 -54.53834,-25.530236,0 -54.538335,-25.530221,0 -54.538322,-25.53021,0 -54.538308,-25.530203,0 -54.538287,-25.530198,0 -54.538256,-25.530195,0</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>7</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#micro">
+		<SimpleData name="descriptio">nome: &lt;br&gt;descrição: &lt;br&gt;ID: 237&lt;br&gt;NOME_ACS: Marta Gisselda da Silveira Pastorini&lt;br&gt;AREA_ID: 048</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="nome">7</SimpleData>
+		<SimpleData name="ID">237</SimpleData>
+		<SimpleData name="NOME_ACS">Marta Gisselda da Silveira Pastorini</SimpleData>
+		<SimpleData name="AREA_ID">048</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>-54.53829,-25.532973,0 -54.537861,-25.532968,0 -54.537681,-25.53297,0 -54.537249,-25.532968,0 -54.537071,-25.532969,0 -54.536629,-25.532969,0 -54.536474,-25.532969,0 -54.536007,-25.532972,0 -54.535991,-25.532977,0 -54.535979,-25.532988,0 -54.535971,-25.532999,0 -54.535967,-25.533012,0 -54.535969,-25.53422,0 -54.535966,-25.534361,0 -54.535974,-25.535545,0 -54.535977,-25.535557,0 -54.535985,-25.535575,0 -54.535996,-25.535585,0 -54.536008,-25.535589,0 -54.536464,-25.53559,0 -54.536622,-25.535588,0 -54.537084,-25.535588,0 -54.537257,-25.535588,0 -54.53768,-25.535587,0 -54.537874,-25.535589,0 -54.538301,-25.535583,0 -54.538326,-25.535582,0 -54.538343,-25.535566,0 -54.538352,-25.535545,0 -54.53835,-25.534353,0 -54.538347,-25.534207,0 -54.538351,-25.533016,0 -54.538343,-25.532991,0 -54.538323,-25.532977,0 -54.53829,-25.532973,0</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>14</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#micro">
+		<SimpleData name="descriptio">nome: &lt;br&gt;descrição: &lt;br&gt;ID: 238&lt;br&gt;NOME_ACS: descoberta&lt;br&gt;AREA_ID: 047</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="nome">14</SimpleData>
+		<SimpleData name="ID">238</SimpleData>
+		<SimpleData name="NOME_ACS">descoberta</SimpleData>
+		<SimpleData name="AREA_ID">047</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>-54.546055,-25.527171,0 -54.545927,-25.52719,0 -54.545485,-25.527164,0 -54.545357,-25.527177,0 -54.544912,-25.527171,0 -54.544796,-25.527171,0 -54.543506,-25.527171,0 -54.543393,-25.527171,0 -54.542898,-25.527172,0 -54.542783,-25.527173,0 -54.542536,-25.527173,0 -54.542289,-25.527171,0 -54.542193,-25.527154,0 -54.542174,-25.527153,0 -54.54212,-25.527151,0 -54.542024,-25.527147,0 -54.541878,-25.527143,0 -54.54178,-25.527142,0 -54.54173,-25.527143,0 -54.541678,-25.527145,0 -54.541656,-25.527147,0 -54.541638,-25.527154,0 -54.541615,-25.527171,0 -54.541601,-25.527187,0 -54.541596,-25.527218,0 -54.541596,-25.527346,0 -54.541603,-25.527703,0 -54.541615,-25.528191,0 -54.541605,-25.528331,0 -54.541601,-25.528464,0 -54.541608,-25.528578,0 -54.54168,-25.528746,0 -54.541684,-25.530039,0 -54.541673,-25.53019,0 -54.541676,-25.530652,0 -54.541636,-25.530655,0 -54.541639,-25.530977,0 -54.541644,-25.531523,0 -54.541656,-25.531536,0 -54.541672,-25.531545,0 -54.541694,-25.53155,0 -54.542193,-25.531551,0 -54.542383,-25.531551,0 -54.542883,-25.531551,0 -54.543026,-25.53155,0 -54.543492,-25.531549,0 -54.54351,-25.531547,0 -54.543531,-25.531535,0 -54.543542,-25.531505,0 -54.543543,-25.531477,0 -54.54354,-25.530783,0 -54.543528,-25.530205,0 -54.543528,-25.530032,0 -54.54354,-25.52931,0 -54.543549,-25.528741,0 -54.543559,-25.528576,0 -54.544278,-25.528574,0 -54.544884,-25.528561,0 -54.545481,-25.528548,0 -54.545795,-25.528541,0 -54.546209,-25.528533,0 -54.546243,-25.528538,0 -54.546257,-25.528381,0 -54.546261,-25.528361,0 -54.546265,-25.5283,0 -54.546266,-25.528282,0 -54.546266,-25.528251,0 -54.546286,-25.528184,0 -54.546333,-25.52798,0 -54.546335,-25.527973,0 -54.546352,-25.527855,0 -54.546392,-25.527697,0 -54.546458,-25.527371,0 -54.546383,-25.52718,0 -54.546055,-25.527171,0</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>1</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#micro">
+		<SimpleData name="descriptio">nome: &lt;br&gt;descrição: &lt;br&gt;ID: 239&lt;br&gt;NOME_ACS: Porfirio Nestor Armando&lt;br&gt;AREA_ID: 047</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="nome">1</SimpleData>
+		<SimpleData name="ID">239</SimpleData>
+		<SimpleData name="NOME_ACS">Porfirio Nestor Armando</SimpleData>
+		<SimpleData name="AREA_ID">047</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>-54.546166,-25.528746,0 -54.545608,-25.528738,0 -54.54549,-25.528746,0 -54.54496,-25.528747,0 -54.544841,-25.52875,0 -54.5443,-25.528744,0 -54.54417,-25.528743,0 -54.543631,-25.528747,0 -54.543637,-25.529316,0 -54.543645,-25.530038,0 -54.543642,-25.53019,0 -54.54364,-25.53076,0 -54.543604,-25.530785,0 -54.543611,-25.5315,0 -54.543619,-25.531526,0 -54.543639,-25.531543,0 -54.543667,-25.531546,0 -54.54417,-25.531548,0 -54.544325,-25.53155,0 -54.54483,-25.531548,0 -54.544966,-25.531545,0 -54.545488,-25.531544,0 -54.54562,-25.531544,0 -54.545722,-25.531543,0 -54.545754,-25.53153,0 -54.545777,-25.531505,0 -54.545803,-25.531439,0 -54.545805,-25.531392,0 -54.545818,-25.531255,0 -54.545841,-25.531114,0 -54.545857,-25.531,0 -54.545866,-25.530908,0 -54.545878,-25.53083,0 -54.5459,-25.530651,0 -54.545958,-25.530038,0 -54.546166,-25.528746,0</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>15</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#micro">
+		<SimpleData name="descriptio">nome: &lt;br&gt;descrição: &lt;br&gt;ID: 240&lt;br&gt;NOME_ACS: descoberta&lt;br&gt;AREA_ID: 047</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="nome">15</SimpleData>
+		<SimpleData name="ID">240</SimpleData>
+		<SimpleData name="NOME_ACS">descoberta</SimpleData>
+		<SimpleData name="AREA_ID">047</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>-54.544967,-25.531603,0 -54.544822,-25.531613,0 -54.544319,-25.531615,0 -54.544298,-25.531618,0 -54.544272,-25.531636,0 -54.544265,-25.531656,0 -54.544264,-25.532851,0 -54.544267,-25.532869,0 -54.544278,-25.532978,0 -54.544289,-25.534214,0 -54.544287,-25.534321,0 -54.544288,-25.535424,0 -54.544286,-25.535441,0 -54.544258,-25.535526,0 -54.544243,-25.53559,0 -54.544241,-25.535627,0 -54.544238,-25.53575,0 -54.544238,-25.535818,0 -54.544235,-25.535915,0 -54.544237,-25.536024,0 -54.544628,-25.536023,0 -54.546176,-25.535944,0 -54.546206,-25.535934,0 -54.546231,-25.535905,0 -54.54616,-25.535125,0 -54.546091,-25.534325,0 -54.546071,-25.534198,0 -54.545971,-25.532973,0 -54.545892,-25.532878,0 -54.545894,-25.53286,0 -54.545887,-25.532816,0 -54.545878,-25.532764,0 -54.545864,-25.53273,0 -54.545851,-25.532628,0 -54.545832,-25.532511,0 -54.545832,-25.532368,0 -54.545828,-25.532308,0 -54.545819,-25.532133,0 -54.545815,-25.532052,0 -54.545809,-25.53196,0 -54.5458,-25.531895,0 -54.545791,-25.531774,0 -54.545783,-25.531666,0 -54.545773,-25.531634,0 -54.545757,-25.531615,0 -54.545737,-25.531605,0 -54.545607,-25.531607,0 -54.545477,-25.531609,0 -54.545405,-25.531609,0 -54.545127,-25.531608,0 -54.545001,-25.531599,0 -54.544967,-25.531603,0</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>55</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#micro">
+		<SimpleData name="descriptio">nome: &lt;br&gt;descrição: &lt;br&gt;ID: 241&lt;br&gt;NOME_ACS: Marcus Fonseca&lt;br&gt;AREA_ID: 060</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="nome">55</SimpleData>
+		<SimpleData name="ID">241</SimpleData>
+		<SimpleData name="NOME_ACS">Marcus Fonseca</SimpleData>
+		<SimpleData name="AREA_ID">060</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>-54.541376,-25.527122,0 -54.541343,-25.527118,0 -54.541126,-25.527118,0 -54.54089,-25.52712,0 -54.540737,-25.527117,0 -54.540271,-25.527119,0 -54.540085,-25.527119,0 -54.539668,-25.527118,0 -54.539503,-25.52712,0 -54.53906,-25.527121,0 -54.538431,-25.527121,0 -54.538414,-25.527124,0 -54.5384,-25.527132,0 -54.538391,-25.527147,0 -54.53839,-25.527173,0 -54.538399,-25.528616,0 -54.538402,-25.528638,0 -54.538396,-25.528761,0 -54.538406,-25.53015,0 -54.53895,-25.530158,0 -54.539021,-25.530159,0 -54.539551,-25.530167,0 -54.539624,-25.530168,0 -54.540081,-25.530169,0 -54.540099,-25.530169,0 -54.540147,-25.530171,0 -54.540174,-25.530171,0 -54.540201,-25.530179,0 -54.540227,-25.530211,0 -54.540236,-25.530247,0 -54.54024,-25.530645,0 -54.540241,-25.530954,0 -54.540245,-25.531525,0 -54.540244,-25.531541,0 -54.540249,-25.531549,0 -54.540254,-25.531554,0 -54.540261,-25.531557,0 -54.541364,-25.531553,0 -54.541392,-25.531549,0 -54.541407,-25.53154,0 -54.541419,-25.531531,0 -54.541416,-25.528765,0 -54.541417,-25.528615,0 -54.541417,-25.527156,0 -54.541416,-25.527143,0 -54.541413,-25.527134,0 -54.541398,-25.527128,0 -54.541376,-25.527122,0</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>5</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#micro">
+		<SimpleData name="descriptio">nome: &lt;br&gt;descrição: &lt;br&gt;ID: 242&lt;br&gt;NOME_ACS: Jocilene Ferreira dos Santos Pereira&lt;br&gt;AREA_ID: 047</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="nome">5</SimpleData>
+		<SimpleData name="ID">242</SimpleData>
+		<SimpleData name="NOME_ACS">Jocilene Ferreira dos Santos Pereira</SimpleData>
+		<SimpleData name="AREA_ID">047</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>-54.541411,-25.532574,0 -54.541374,-25.532567,0 -54.540306,-25.532568,0 -54.540279,-25.53257,0 -54.540257,-25.532584,0 -54.540245,-25.532618,0 -54.540245,-25.532946,0 -54.540222,-25.532966,0 -54.540197,-25.532968,0 -54.540125,-25.532967,0 -54.539684,-25.532966,0 -54.539514,-25.532967,0 -54.539074,-25.532968,0 -54.538905,-25.532969,0 -54.538443,-25.532971,0 -54.53842,-25.532991,0 -54.538416,-25.533023,0 -54.538419,-25.534198,0 -54.538417,-25.534349,0 -54.538422,-25.535376,0 -54.538411,-25.535394,0 -54.538411,-25.535546,0 -54.538412,-25.535564,0 -54.538422,-25.53559,0 -54.538465,-25.535596,0 -54.538685,-25.535596,0 -54.538702,-25.535586,0 -54.538916,-25.535586,0 -54.539093,-25.535586,0 -54.539499,-25.535584,0 -54.539717,-25.535584,0 -54.540124,-25.535583,0 -54.540287,-25.535583,0 -54.540396,-25.535586,0 -54.540768,-25.535598,0 -54.541383,-25.535608,0 -54.54141,-25.535602,0 -54.541422,-25.535593,0 -54.541433,-25.535577,0 -54.541433,-25.535564,0 -54.541431,-25.534334,0 -54.541429,-25.534212,0 -54.541427,-25.532602,0 -54.541422,-25.532587,0 -54.541411,-25.532574,0</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>16</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#micro">
+		<SimpleData name="descriptio">nome: &lt;br&gt;descrição: &lt;br&gt;ID: 244&lt;br&gt;NOME_ACS: Vilma Aparecida Silva&lt;br&gt;AREA_ID: 048</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="nome">16</SimpleData>
+		<SimpleData name="ID">244</SimpleData>
+		<SimpleData name="NOME_ACS">Vilma Aparecida Silva</SimpleData>
+		<SimpleData name="AREA_ID">048</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>-54.544208,-25.534297,0 -54.544184,-25.534293,0 -54.543652,-25.534297,0 -54.543518,-25.534297,0 -54.543013,-25.5343,0 -54.542891,-25.534301,0 -54.542874,-25.5343,0 -54.542854,-25.534301,0 -54.541696,-25.534293,0 -54.54168,-25.534297,0 -54.541658,-25.534313,0 -54.541639,-25.534334,0 -54.541624,-25.534355,0 -54.5416,-25.534982,0 -54.541609,-25.535619,0 -54.541558,-25.535641,0 -54.541557,-25.535642,0 -54.541512,-25.535656,0 -54.541395,-25.535649,0 -54.540748,-25.535647,0 -54.539201,-25.535647,0 -54.537852,-25.535638,0 -54.537837,-25.535634,0 -54.537723,-25.535652,0 -54.537699,-25.535647,0 -54.535955,-25.535651,0 -54.535812,-25.535652,0 -54.534238,-25.535663,0 -54.534195,-25.535663,0 -54.534169,-25.535667,0 -54.534151,-25.535675,0 -54.53413,-25.535688,0 -54.534118,-25.535706,0 -54.534115,-25.535719,0 -54.53411,-25.536407,0 -54.534117,-25.536442,0 -54.534126,-25.536465,0 -54.534146,-25.536487,0 -54.53417,-25.536508,0 -54.534192,-25.536524,0 -54.534212,-25.536527,0 -54.534593,-25.536511,0 -54.535938,-25.536427,0 -54.537689,-25.536342,0 -54.537718,-25.536342,0 -54.537867,-25.536332,0 -54.538963,-25.536276,0 -54.541366,-25.536152,0 -54.541671,-25.536147,0 -54.542257,-25.53612,0 -54.542383,-25.536115,0 -54.542637,-25.536105,0 -54.543071,-25.536085,0 -54.54412,-25.536032,0 -54.544148,-25.536021,0 -54.54417,-25.535983,0 -54.544171,-25.535944,0 -54.544173,-25.535654,0 -54.544175,-25.535614,0 -54.544186,-25.535571,0 -54.544209,-25.535475,0 -54.544219,-25.535432,0 -54.54422,-25.535412,0 -54.544217,-25.534314,0 -54.544208,-25.534297,0</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>13</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#micro">
+		<SimpleData name="descriptio">nome: &lt;br&gt;descrição: &lt;br&gt;ID: 245&lt;br&gt;NOME_ACS: descoberta&lt;br&gt;AREA_ID: 060</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="nome">13</SimpleData>
+		<SimpleData name="ID">245</SimpleData>
+		<SimpleData name="NOME_ACS">descoberta</SimpleData>
+		<SimpleData name="AREA_ID">060</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>-54.5415416007311,-25.5258754549062,0 -54.5416585704565,-25.5256256849664,0 -54.5416594499281,-25.5256001802894,0 -54.5416488962687,-25.5255737961408,0 -54.541629547893,-25.5255535682936,0 -54.5389788204324,-25.5241376189865,0 -54.5386199960117,-25.5249185897844,0 -54.5384159585961,-25.5254955231667,0 -54.5378267126109,-25.5253737163473,0 -54.5378100026501,-25.5253728368756,0 -54.537794,-25.525369,0 -54.537786,-25.525385,0 -54.537786,-25.527025,0 -54.53779,-25.527045,0 -54.537803,-25.527056,0 -54.537824,-25.527059,0 -54.538282,-25.527058,0 -54.538445,-25.527067,0 -54.538879,-25.527067,0 -54.539061,-25.52706,0 -54.539514,-25.527057,0 -54.53968,-25.527056,0 -54.540131,-25.527054,0 -54.540286,-25.527056,0 -54.541257,-25.527062,0 -54.541296,-25.52706,0 -54.541305,-25.527057,0 -54.54131,-25.527053,0 -54.541369,-25.527054,0 -54.541395,-25.527053,0 -54.541407,-25.527047,0 -54.541413,-25.527037,0 -54.541415,-25.527019,0 -54.541418,-25.526732,0 -54.54142,-25.526488,0 -54.541427,-25.526203,0 -54.5414439793814,-25.5260847691516,0 -54.5415416007311,-25.5258754549062,0</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>12</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#micro">
+		<SimpleData name="descriptio">nome: &lt;br&gt;descrição: &lt;br&gt;ID: 246&lt;br&gt;NOME_ACS: descoberta&lt;br&gt;AREA_ID: 060</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="nome">12</SimpleData>
+		<SimpleData name="ID">246</SimpleData>
+		<SimpleData name="NOME_ACS">descoberta</SimpleData>
+		<SimpleData name="AREA_ID">060</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>-54.5377185376017,-25.5253473321987,0 -54.5383517571679,-25.5254594648303,0 -54.5389146190042,-25.5241121143095,0 -54.5367968513449,-25.522958247545,0 -54.536089756163,-25.5245483322327,0 -54.5359455228172,-25.5249674004591,0 -54.5359420049307,-25.5259946233105,0 -54.5359349691577,-25.5270675786861,0 -54.536037,-25.527063,0 -54.536447,-25.52706,0 -54.536635,-25.527062,0 -54.537055,-25.527066,0 -54.537213,-25.527069,0 -54.537679,-25.52706,0 -54.537697,-25.527055,0 -54.537709,-25.527042,0 -54.537718,-25.527025,0 -54.537721,-25.527008,0 -54.53772,-25.525399,0 -54.5377185376017,-25.5253473321987,0</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>17</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#micro">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="nome">17</SimpleData>
+		<SimpleData name="ID">248</SimpleData>
+		<SimpleData name="NOME_ACS">descoberta</SimpleData>
+		<SimpleData name="AREA_ID">048</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>-54.535765,-25.536602,0 -54.535749,-25.536602,0 -54.5357,-25.536605,0 -54.535606,-25.536612,0 -54.535185,-25.536633,0 -54.534775,-25.536656,0 -54.534511,-25.536669,0 -54.5339284546586,-25.5366876789941,0 -54.5339442851477,-25.5397130613645,0 -54.5339330718849,-25.5433083413443,0 -54.5345561775271,-25.5432898724403,0 -54.5352039083748,-25.5432511756891,0 -54.5357535781368,-25.5432432604445,0 -54.5362619127328,-25.5432274299554,0 -54.536779042045,-25.5432115994662,0 -54.5375934327644,-25.5431394827934,0 -54.5387455405857,-25.5430568124612,0 -54.538841,-25.539199,0 -54.538855,-25.536814,0 -54.538854,-25.536499,0 -54.538851,-25.536479,0 -54.538837,-25.536462,0 -54.538818,-25.536449,0 -54.538621,-25.53645,0 -54.537638,-25.536504,0 -54.536967,-25.53654,0 -54.536706,-25.536552,0 -54.535915,-25.536594,0 -54.535898,-25.536595,0 -54.535765,-25.536602,0</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>65</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#micro">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="nome">65</SimpleData>
+		<SimpleData name="NOME_ACS">descoberta</SimpleData>
+		<SimpleData name="AREA_ID">123</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>-54.5308472258406,-25.5323782680595,0 -54.5311330541169,-25.5323743104373,0 -54.5313876611505,-25.5323615580987,0 -54.5315846627933,-25.5323615580987,0 -54.532246025451,-25.5323685938717,0 -54.5328994728641,-25.5323712322866,0 -54.5332420270599,-25.5323663951927,0 -54.5339957342376,-25.5323532031183,0 -54.5340748866833,-25.5294746925083,0 -54.5338919565865,-25.5293832274599,0 -54.5327345719355,-25.5294254420976,0 -54.532266693034,-25.5294324778706,0 -54.5317108669706,-25.5294535851895,0 -54.531183183999,-25.5294746925083,0 -54.530880645762,-25.5294711746219,0 -54.5308709715742,-25.5295705549149,0 -54.5308692126309,-25.5298511063614,0 -54.5308665742161,-25.5302090513105,0 -54.5308577794999,-25.5303708740884,0 -54.5308604179148,-25.5308255609156,0 -54.5308569000283,-25.5310480672353,0 -54.5308570695391,-25.5312042103271,0 -54.5308472258406,-25.5323782680595,0</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>5</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#micro">
+		<SimpleData name="descriptio">nome: &lt;br&gt;descrição: &lt;br&gt;ID: 354&lt;br&gt;NOME_ACS: descoberta&lt;br&gt;AREA_ID: 054</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="nome">5</SimpleData>
+		<SimpleData name="ID">354</SimpleData>
+		<SimpleData name="NOME_ACS">descoberta</SimpleData>
+		<SimpleData name="AREA_ID">054</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>-54.5420318226929,-25.5220887629944,0 -54.5415859704888,-25.5217008915702,0 -54.541559,-25.521687,0 -54.5415299890462,-25.521656906151,0 -54.5415019983248,-25.5216229174179,0 -54.541207,-25.521364,0 -54.541101,-25.521271,0 -54.540775,-25.520972,0 -54.540758,-25.520966,0 -54.540739,-25.520968,0 -54.540728,-25.520973,0 -54.540718,-25.520983,0 -54.539687,-25.521919,0 -54.539542,-25.522046,0 -54.538878,-25.522649,0 -54.538015,-25.523436,0 -54.538005,-25.523461,0 -54.538007,-25.523479,0 -54.538013,-25.523496,0 -54.538051,-25.523519,0 -54.5383430454888,-25.5237022281454,0 -54.5385049918051,-25.5238041943446,0 -54.5387649056461,-25.5239461472885,0 -54.5389708373816,-25.5240641081855,0 -54.5404343522398,-25.5227065582009,0 -54.5408602110715,-25.5231124236602,0 -54.5408922004673,-25.5231364157071,0 -54.5420318226929,-25.5220887629944,0</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>3</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#micro">
+		<SimpleData name="descriptio">nome: &lt;br&gt;descrição: &lt;br&gt;ID: 395&lt;br&gt;NOME_ACS: descoberta&lt;br&gt;AREA_ID: 088</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="nome">3</SimpleData>
+		<SimpleData name="ID">395</SimpleData>
+		<SimpleData name="NOME_ACS">descoberta</SimpleData>
+		<SimpleData name="AREA_ID">088</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>-54.54371,-25.521423,0 -54.543088,-25.521976,0 -54.542576,-25.522436,0 -54.542563,-25.522446,0 -54.542559,-25.522465,0 -54.542564,-25.52247,0 -54.542568,-25.522479,0 -54.542582,-25.522493,0 -54.542912,-25.522805,0 -54.542918,-25.52287,0 -54.542904,-25.522937,0 -54.542721,-25.523098,0 -54.541887,-25.523841,0 -54.541841,-25.523881,0 -54.541826,-25.523898,0 -54.54182,-25.523922,0 -54.541822,-25.523932,0 -54.541838,-25.523951,0 -54.54212,-25.524209,0 -54.542266,-25.52434,0 -54.54261,-25.524651,0 -54.542624,-25.524661,0 -54.542636,-25.524669,0 -54.54265,-25.524664,0 -54.542671,-25.524652,0 -54.542693,-25.524632,0 -54.543726,-25.523694,0 -54.543866,-25.523571,0 -54.544889,-25.522648,0 -54.54499,-25.522557,0 -54.54371,-25.521423,0</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>2</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#micro">
+		<SimpleData name="descriptio">nome: &lt;br&gt;descrição: &lt;br&gt;ID: 396&lt;br&gt;NOME_ACS: descoberta&lt;br&gt;AREA_ID: 088</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="nome">2</SimpleData>
+		<SimpleData name="ID">396</SimpleData>
+		<SimpleData name="NOME_ACS">descoberta</SimpleData>
+		<SimpleData name="AREA_ID">088</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>-54.542321,-25.520165,0 -54.542004,-25.519877,0 -54.54199,-25.519871,0 -54.541967,-25.519868,0 -54.541946,-25.519874,0 -54.540854,-25.520861,0 -54.540842,-25.520872,0 -54.540834,-25.520885,0 -54.540839,-25.520911,0 -54.541173,-25.521217,0 -54.541297,-25.521327,0 -54.541615,-25.521616,0 -54.541705,-25.521694,0 -54.542014,-25.521984,0 -54.542077,-25.522097,0 -54.542024,-25.52216,0 -54.541679,-25.522471,0 -54.540973,-25.523115,0 -54.540963,-25.523138,0 -54.540964,-25.523164,0 -54.541276,-25.523445,0 -54.5414,-25.523557,0 -54.541708,-25.523841,0 -54.541736,-25.523859,0 -54.541765,-25.523854,0 -54.5418,-25.523834,0 -54.542861,-25.522886,0 -54.542839,-25.522844,0 -54.5425,-25.522538,0 -54.542502,-25.522457,0 -54.542535,-25.522383,0 -54.54307,-25.521904,0 -54.543623,-25.521408,0 -54.543637,-25.521396,0 -54.543642,-25.521377,0 -54.543635,-25.521355,0 -54.543627,-25.521345,0 -54.543315,-25.521063,0 -54.543182,-25.520943,0 -54.542883,-25.520674,0 -54.542754,-25.520558,0 -54.542447,-25.520278,0 -54.542321,-25.520165,0</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>1</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#micro">
+		<SimpleData name="descriptio">nome: &lt;br&gt;descrição: &lt;br&gt;ID: 400&lt;br&gt;NOME_ACS: descoberta&lt;br&gt;AREA_ID: 088</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="nome">1</SimpleData>
+		<SimpleData name="ID">400</SimpleData>
+		<SimpleData name="NOME_ACS">descoberta</SimpleData>
+		<SimpleData name="AREA_ID">088</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>-54.544883,-25.516428,0 -54.54459,-25.516696,0 -54.544474,-25.516799,0 -54.54403,-25.517204,0 -54.543934,-25.517283,0 -54.543902,-25.517308,0 -54.543775,-25.51743,0 -54.542927,-25.51821,0 -54.541992,-25.519052,0 -54.541502,-25.519456,0 -54.544986,-25.522493,0 -54.546086,-25.521468,0 -54.546624,-25.520926,0 -54.547245,-25.520301,0 -54.547281,-25.520265,0 -54.547524,-25.520022,0 -54.54736,-25.519932,0 -54.547361,-25.519923,0 -54.547363,-25.519907,0 -54.547368,-25.519898,0 -54.547367,-25.519895,0 -54.547366,-25.519879,0 -54.547363,-25.519871,0 -54.547359,-25.519865,0 -54.547343,-25.519851,0 -54.547323,-25.519834,0 -54.547316,-25.519829,0 -54.547256,-25.519859,0 -54.547223,-25.51986,0 -54.547198,-25.519859,0 -54.547168,-25.519856,0 -54.547142,-25.519848,0 -54.54708,-25.519838,0 -54.547039,-25.519812,0 -54.547015,-25.519774,0 -54.547008,-25.519734,0 -54.547012,-25.519709,0 -54.547011,-25.519704,0 -54.547007,-25.519697,0 -54.546994,-25.519684,0 -54.546982,-25.519675,0 -54.546945,-25.519663,0 -54.54692,-25.51966,0 -54.546906,-25.519656,0 -54.546875,-25.519652,0 -54.546832,-25.519647,0 -54.546765,-25.519622,0 -54.546738,-25.519602,0 -54.546682,-25.519559,0 -54.546654,-25.519533,0 -54.546614,-25.51947,0 -54.5466,-25.519439,0 -54.54657,-25.51939,0 -54.546522,-25.519322,0 -54.546459,-25.519245,0 -54.546378,-25.519151,0 -54.546331,-25.519116,0 -54.546296,-25.519107,0 -54.546248,-25.519099,0 -54.546204,-25.519077,0 -54.54616,-25.519048,0 -54.546126,-25.519014,0 -54.546093,-25.518979,0 -54.546075,-25.518939,0 -54.546072,-25.518925,0 -54.546068,-25.518906,0 -54.546049,-25.518873,0 -54.546043,-25.518864,0 -54.546031,-25.518856,0 -54.546006,-25.51884,0 -54.545982,-25.518818,0 -54.545967,-25.518801,0 -54.545921,-25.518748,0 -54.545915,-25.51874,0 -54.545905,-25.518725,0 -54.54589,-25.518705,0 -54.545878,-25.518676,0 -54.54587,-25.518649,0 -54.545866,-25.518622,0 -54.545865,-25.518603,0 -54.545863,-25.518596,0 -54.545858,-25.518589,0 -54.545848,-25.518577,0 -54.545814,-25.518541,0 -54.545799,-25.518528,0 -54.545777,-25.518512,0 -54.545755,-25.518494,0 -54.545711,-25.518459,0 -54.545696,-25.518452,0 -54.545643,-25.518432,0 -54.54563,-25.518431,0 -54.545608,-25.518431,0 -54.545575,-25.518431,0 -54.545541,-25.51842,0 -54.545524,-25.518416,0 -54.545519,-25.518416,0 -54.545512,-25.51842,0 -54.545491,-25.518438,0 -54.545451,-25.518453,0 -54.545399,-25.518456,0 -54.545368,-25.518457,0 -54.54534,-25.518452,0 -54.545306,-25.518448,0 -54.545264,-25.518426,0 -54.545224,-25.518404,0 -54.545211,-25.518399,0 -54.545185,-25.518389,0 -54.545159,-25.518367,0 -54.545147,-25.518356,0 -54.545133,-25.518345,0 -54.545116,-25.518321,0 -54.545107,-25.518294,0 -54.545101,-25.518257,0 -54.545096,-25.518239,0 -54.545094,-25.518217,0 -54.545091,-25.518201,0 -54.545087,-25.518187,0 -54.545082,-25.518163,0 -54.545079,-25.518154,0 -54.545076,-25.518139,0 -54.545073,-25.518133,0 -54.545068,-25.518108,0 -54.545067,-25.51809,0 -54.545065,-25.518072,0 -54.545064,-25.518066,0 -54.545059,-25.518049,0 -54.545061,-25.518037,0 -54.54506,-25.518024,0 -54.545057,-25.518008,0 -54.545052,-25.517982,0 -54.545049,-25.517972,0 -54.545045,-25.51796,0 -54.545045,-25.517959,0 -54.545043,-25.517957,0 -54.545038,-25.517956,0 -54.545018,-25.517957,0 -54.545016,-25.517958,0 -54.544996,-25.517968,0 -54.544978,-25.517977,0 -54.544957,-25.517983,0 -54.544922,-25.517985,0 -54.544876,-25.517973,0 -54.544859,-25.517936,0 -54.544854,-25.517923,0 -54.544844,-25.517903,0 -54.544842,-25.517877,0 -54.544841,-25.517843,0 -54.544841,-25.517834,0 -54.544841,-25.517833,0 -54.544839,-25.517828,0 -54.544815,-25.517821,0 -54.544797,-25.517812,0 -54.544764,-25.517797,0 -54.544742,-25.51776,0 -54.544733,-25.517728,0 -54.544735,-25.517668,0 -54.544742,-25.517639,0 -54.544748,-25.517612,0 -54.544754,-25.517598,0 -54.544767,-25.517576,0 -54.544777,-25.517556,0 -54.544788,-25.51754,0 -54.544795,-25.517526,0 -54.544801,-25.517512,0 -54.544805,-25.5175,0 -54.544808,-25.517487,0 -54.544809,-25.517442,0 -54.544809,-25.517421,0 -54.544809,-25.5174,0 -54.544809,-25.517379,0 -54.544812,-25.517321,0 -54.544817,-25.517295,0 -54.544822,-25.517265,0 -54.544834,-25.51724,0 -54.544843,-25.517223,0 -54.544852,-25.517206,0 -54.54486,-25.517188,0 -54.54488,-25.517148,0 -54.544895,-25.517133,0 -54.544897,-25.517128,0 -54.544899,-25.517116,0 -54.544903,-25.517093,0 -54.544923,-25.517035,0 -54.544933,-25.517011,0 -54.544944,-25.516985,0 -54.544978,-25.516927,0 -54.544991,-25.516908,0 -54.545004,-25.51689,0 -54.545008,-25.516885,0 -54.54504,-25.516839,0 -54.545061,-25.516822,0 -54.545077,-25.516809,0 -54.545088,-25.516797,0 -54.545115,-25.516761,0 -54.545129,-25.516742,0 -54.545145,-25.516724,0 -54.545157,-25.516713,0 -54.545175,-25.516686,0 -54.545178,-25.516676,0 -54.545178,-25.516663,0 -54.545049,-25.516545,0 -54.544961,-25.516462,0 -54.544905,-25.516418,0 -54.544883,-25.516428,0</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>42</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#micro">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="nome">42</SimpleData>
+		<SimpleData name="ID">420</SimpleData>
+		<SimpleData name="NOME_ACS">descoberta</SimpleData>
+		<SimpleData name="AREA_ID">122</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>-54.5283864425041,-25.5290844648599,0 -54.5284155943267,-25.5288658261905,0 -54.5282242854909,-25.5263715233697,0 -54.5282680132248,-25.5246515658366,0 -54.5280056468215,-25.5230336396826,0 -54.5281982573233,-25.5223773565405,0 -54.5280153272264,-25.5218285662501,0 -54.5276441902031,-25.5207046015206,0 -54.5234627423887,-25.5083264782145,0 -54.5217600853338,-25.5075666147354,0 -54.5216756560583,-25.5056001161946,0 -54.521570119464,-25.5055790088758,0 -54.5213097958647,-25.5057021349025,0 -54.5191955460918,-25.5068102691428,0 -54.5189035615142,-25.5070389317638,0 -54.5180768581921,-25.5073098090226,0 -54.5155088010637,-25.5077812058105,0 -54.508912531842,-25.5071526116129,0 -54.5076015328149,-25.5071315042941,0 -54.5067830378946,-25.5071361948094,0 -54.5047722115352,-25.5071303968123,0 -54.5040915005018,-25.5069263593966,0 -54.503400235809,-25.5067363935268,0 -54.503437173617,-25.5063529439008,0 -54.5033808874334,-25.505543830011,0 -54.5033386727957,-25.5046362152999,0 -54.5032542435202,-25.5041859258308,0 -54.5032683150661,-25.503693421724,0 -54.5031979573366,-25.5031164883417,0 -54.5031627784718,-25.5024762330029,0 -54.5032401719743,-25.5013223662383,0 -54.503016786183,-25.4976549695858,0 -54.5027916414485,-25.4878330305413,0 -54.486468648194,-25.4810224023214,0 -54.4865302112074,-25.5065569813165,0 -54.4869470807549,-25.5521681384372,0 -54.5147137587198,-25.5504373382904,0 -54.5145449001689,-25.5365153025567,0 -54.5164656661855,-25.5368037692478,0 -54.5193644046427,-25.5372188798521,0 -54.5205393787261,-25.5371837009874,0 -54.5202579478079,-25.5352383097655,0 -54.5211664419907,-25.5351626752062,0 -54.5211629241042,-25.5345435271862,0 -54.5226017396734,-25.5345189019808,0 -54.522591186014,-25.5340615767388,0 -54.522584150241,-25.5328197628123,0 -54.5240440731291,-25.5326931188992,0 -54.5254301204011,-25.5325488855536,0 -54.5260246432158,-25.5325348140077,0 -54.5284484669986,-25.5324820457105,0 -54.5284238417933,-25.5306738520612,0 -54.5283992165879,-25.5294461096807,0 -54.5283864425041,-25.5290844648599,0</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>19</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#micro">
+		<SimpleData name="nome">19</SimpleData>
+		<SimpleData name="NOME_ACS">descoberta</SimpleData>
+		<SimpleData name="AREA_ID">048</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>-54.5387437816425,-25.5430691250639,0 -54.5367755241585,-25.5432265504837,0 -54.5339354904316,-25.5433241718334,0 -54.5339495619775,-25.5498674406811,0 -54.5362995101443,-25.5497689398598,0 -54.5386353867652,-25.5496845105843,0 -54.5386776014029,-25.5472079185043,0 -54.5387437816425,-25.5430691250639,0</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>60</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#micro">
+		<SimpleData name="nome">60</SimpleData>
+		<SimpleData name="AREA_ID">123</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>-54.5324131250586,-25.536745724121,0 -54.5318959957465,-25.5367597956669,0 -54.5305310557933,-25.536819599737,0 -54.5288266397951,-25.5368670912045,0 -54.5287932198735,-25.5390006893529,0 -54.5323392494426,-25.5389619926017,0 -54.5324131250586,-25.536745724121,0</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>61</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#micro">
+		<SimpleData name="nome">61</SimpleData>
+		<SimpleData name="AREA_ID">123</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>-54.5338901976432,-25.5366450246206,0 -54.5331479235966,-25.5366696498259,0 -54.5324513820741,-25.5366661319394,0 -54.5324236787181,-25.5390745649689,0 -54.5288072914194,-25.5390253145583,0 -54.5288673153576,-25.5500917059441,0 -54.5339011910385,-25.5498604049082,0 -54.5338901976432,-25.5366450246206,0</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>62</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#micro">
+		<SimpleData name="nome">62</SimpleData>
+		<SimpleData name="AREA_ID">123</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>-54.5284462683197,-25.532545807403,0 -54.5253927428575,-25.5325880220407,0 -54.5226487914052,-25.5328694529589,0 -54.5226487914052,-25.5346283961975,0 -54.5212134937225,-25.5346283961975,0 -54.5212134937225,-25.5353038304011,0 -54.5203973440598,-25.5353038304011,0 -54.5206506318862,-25.5372034890989,0 -54.5218185701966,-25.5371049882775,0 -54.5237463719861,-25.5369783443643,0 -54.5273064731011,-25.5368517004511,0 -54.5286256805301,-25.5367496817433,0 -54.5284462683197,-25.532545807403,0</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+</Folder>
+</Document></kml>
