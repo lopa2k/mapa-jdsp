@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="015" id="015">
+	<SimpleField name="descriptio" type="string"></SimpleField>
+	<SimpleField name="timestamp" type="string"></SimpleField>
+	<SimpleField name="begin" type="string"></SimpleField>
+	<SimpleField name="end" type="string"></SimpleField>
+	<SimpleField name="altitudeMo" type="string"></SimpleField>
+	<SimpleField name="tessellate" type="float"></SimpleField>
+	<SimpleField name="extrude" type="float"></SimpleField>
+	<SimpleField name="visibility" type="float"></SimpleField>
+	<SimpleField name="drawOrder" type="float"></SimpleField>
+	<SimpleField name="icon" type="string"></SimpleField>
+	<SimpleField name="nome" type="string"></SimpleField>
+	<SimpleField name="descri____" type="string"></SimpleField>
+	<SimpleField name="ID" type="string"></SimpleField>
+	<SimpleField name="UBS" type="string"></SimpleField>
+	<SimpleField name="INE" type="string"></SimpleField>
+	<SimpleField name="NOME_EQP" type="string"></SimpleField>
+	<SimpleField name="TIPO" type="string"></SimpleField>
+</Schema>
+<Folder><name>015</name>
+  <Placemark>
+	<name>015</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#015">
+		<SimpleData name="descriptio">nome: &lt;br&gt;descrição: &lt;br&gt;ID: 015&lt;br&gt;UBS: PROFILURB II&lt;br&gt;INE: 384607&lt;br&gt;NOME_EQP: EQUIPE 1&lt;br&gt;TIPO: EQUIPE DE ATENCAO PRIMARIA (EAP)</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="ID">015</SimpleData>
+		<SimpleData name="UBS">PROFILURB II</SimpleData>
+		<SimpleData name="INE">384607</SimpleData>
+		<SimpleData name="NOME_EQP">EQUIPE 1</SimpleData>
+		<SimpleData name="TIPO">EQUIPE DE ATENCAO PRIMARIA (EAP)</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>-54.568737,-25.590155,0 -54.571406,-25.590137,0 -54.572341,-25.586115,0 -54.572675,-25.584784,0 -54.572694,-25.584516,0 -54.572771,-25.584361,0 -54.573094,-25.583575,0 -54.573093,-25.582723,0 -54.570616,-25.582768,0 -54.570595,-25.582752,0 -54.570575,-25.582723,0 -54.570562,-25.58233,0 -54.570558,-25.581823,0 -54.5705551408313,-25.5815992326349,0 -54.5695708453636,-25.581616350817,0 -54.5695679923333,-25.5816591462721,0 -54.5692784097537,-25.5816662788479,0 -54.5690901097511,-25.5816577197569,0 -54.5690901097511,-25.5815507311191,0 -54.5684827709172,-25.5814940271411,0 -54.5684859805764,-25.5815863939984,0 -54.568187482277,-25.5815004464594,0 -54.5675426974198,-25.5814334002464,0 -54.5669549731696,-25.5813963108519,0 -54.5658936458826,-25.5813749131244,0 -54.5657681125476,-25.5814234146402,0 -54.5655983572423,-25.5811694949398,0 -54.5653663702125,-25.5809483850882,0 -54.5651723641493,-25.580845675996,0 -54.5649954762681,-25.5807315547823,0 -54.5639141777688,-25.5800525335611,0 -54.5638542641317,-25.5799911934088,0 -54.5638612183933,-25.5795079613948,0 -54.563875483545,-25.5789616060845,0 -54.5631051653529,-25.578957326539,0 -54.5625317062543,-25.5789259432052,0 -54.5622806395843,-25.5789173841142,0 -54.5614903501798,-25.5788945598715,0 -54.5613851446858,-25.5799020362106,0 -54.561352,-25.580144,0 -54.561336,-25.580249,0 -54.56132,-25.580353,0 -54.561305,-25.580465,0 -54.56129,-25.580566,0 -54.561281,-25.580754,0 -54.56134,-25.580787,0 -54.561492,-25.580872,0 -54.561931,-25.581111,0 -54.562481,-25.581416,0 -54.563008,-25.581709,0 -54.56323,-25.581875,0 -54.563452,-25.582024,0 -54.563711,-25.582262,0 -54.56383,-25.582376,0 -54.564132,-25.582832,0 -54.564249,-25.583098,0 -54.564319,-25.583351,0 -54.564377,-25.583748,0 -54.564388,-25.584114,0 -54.564312,-25.584516,0 -54.56422,-25.584808,0 -54.564096,-25.585068,0 -54.563902,-25.585385,0 -54.563708,-25.585687,0 -54.563585,-25.585906,0 -54.563511,-25.585989,0 -54.563173,-25.58647,0 -54.562751,-25.587102,0 -54.562383,-25.587653,0 -54.562309,-25.587786,0 -54.56289,-25.588072,0 -54.562954,-25.588009,0 -54.563015,-25.588018,0 -54.563036,-25.58806,0 -54.563056,-25.588041,0 -54.563095,-25.588041,0 -54.563193,-25.588124,0 -54.563278,-25.588114,0 -54.56332,-25.588128,0 -54.563382,-25.588163,0 -54.563442,-25.588165,0 -54.563494,-25.588186,0 -54.563524,-25.588242,0 -54.563597,-25.588282,0 -54.563677,-25.588295,0 -54.563759,-25.588354,0 -54.563834,-25.588373,0 -54.564065,-25.588467,0 -54.564234,-25.588606,0 -54.564348,-25.588706,0 -54.56447,-25.588841,0 -54.564904,-25.589188,0 -54.565084,-25.589285,0 -54.565274,-25.589446,0 -54.565512,-25.589548,0 -54.565538,-25.589535,0 -54.565733,-25.589645,0 -54.565946,-25.589676,0 -54.566196,-25.589729,0 -54.566353,-25.589771,0 -54.566688,-25.589896,0 -54.566936,-25.589938,0 -54.567191,-25.589985,0 -54.567631,-25.590039,0 -54.567982,-25.590073,0 -54.568279,-25.590101,0 -54.568551,-25.590109,0 -54.568737,-25.590155,0</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+</Folder>
+</Document></kml>
